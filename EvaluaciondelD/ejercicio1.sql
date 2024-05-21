@@ -1,0 +1,1 @@
+SELECT DISTINCT type from crime_scene_report where city Like '%SQL City%' order by city ASC
